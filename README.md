@@ -22,7 +22,7 @@ This fail yeilded:
 https://www.mintscan.io/stride/transactions/C97E448E9CAEC25AA2691D6E0E54138DE407DF20983FEFFA41499824693A92B5?height=5436228
 
 
-### Command line win?
+### Command line win
 
 ```bash
 strided tx gov submit-legacy-proposal --title="Signaling Proposal - Redelegate Stride's Osmosis Host Chain Validator Set" --description="This is a signaling proposal to redelegate Stride's Osmosis Validator Set.\n\\n\\nThe full proposal and discussion can be found here: https://commonwealth.im/stride/discussion/13084-redelegate-the-stride-osmosis-validator-set?tab=0\n%22}" --type="Text" --from RoboMcGobo --deposit 1000000000ustrd --chain-id stride-1 --gas 9000000 --gas-prices 0.025ustrd --node https://stride-rpc.polkachu.com:443
@@ -31,3 +31,7 @@ strided tx gov submit-legacy-proposal --title="Signaling Proposal - Redelegate S
 
 
 https://www.mintscan.io/stride/transactions/E40DAD268BF61706FBA4DCE5B3C87EB4C0A4C17E7A16453C1DE17F823E6BFA55
+
+## The Lesson
+
+Just link to the forum or commonwealth dicsussion for chains on v47+
